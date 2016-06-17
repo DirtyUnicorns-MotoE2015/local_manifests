@@ -13,6 +13,10 @@
      <remove-project name="platform/external/chromium-webview" />
      <project path="external/chromium-webview" name="TurboROM/external_chromium-webview" remote="github" revision="m6.0.1" />
 
+     <!-- CM QCOM BT  -->
+     <remove-project name="android_hardware_qcom_bt" />
+     <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" remote="github" revision="cm-13.0" />
+
      <!-- Surnia -->
      <project path="kernel/motorola/msm8916" name="DirtyUnicorns/android_kernel_motorola_msm8916" remote="github" revision="m-caf"/>
      <project path="device/motorola/msm8916-common" name="DirtyUnicorns/android_device_motorola_msm8916-common" remote="github" revision="m-caf"/>
