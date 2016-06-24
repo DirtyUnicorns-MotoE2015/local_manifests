@@ -12,9 +12,8 @@
      
      <!-- Webview prebuilt -->
      <remove-project name="platform/external/chromium-webview" />
-     <remove-project name="android_build" />
-     <project path="external/chromium-webview" name="UBERMALLOW/external_chromium-webview" remote="github" revision="master" />
-     <project path="build" name="DirtyUnicorns-MotoE2015/android_build" remote="github" revision="m-caf" />
+     <project path="external/chromium-webview" name="TurboROM/external_chromium-webview" remote="github" revision="m6.0.1" />
+     <project path="hardware/qcom/fm" name="DirtyUnicorns/android_hardware_qcom_fm" remote="github" revision="m-caf" />
 
      <!-- Surnia -->
      <project path="kernel/motorola/msm8916" name="DirtyUnicorns/android_kernel_motorola_msm8916" remote="github" revision="m-caf"/>
