@@ -9,6 +9,7 @@
      <project path="external/bson" name="DirtyUnicorns/android_external_bson" remote="github" revision="m-caf"/>
      <project path="external/stlport" name="DirtyUnicorns/android_external_stlport" remote="github" revision="m-caf"/>
      <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-13.0"/>
+     <project path="system/qcom" name="DirtyUnicorns/android_system_qcom" remote="github" revision="m-caf"/>
      
      <!-- Webview prebuilt -->
      <remove-project name="platform/external/chromium-webview" />
@@ -16,7 +17,7 @@
      <project path="hardware/qcom/fm" name="DirtyUnicorns/android_hardware_qcom_fm" remote="github" revision="m-caf" />
 
      <!-- Surnia -->
-     <project path="kernel/motorola/msm8916" name="CyanogenMod/android_kernel_motorola_msm8916" remote="github" revision="cm-13.0"/>
+     <project path="kernel/motorola/msm8916" name="DirtyUnicorns/android_kernel_motorola_msm8916" remote="github" revision="m-caf"/>
      <project path="device/motorola/msm8916-common" name="DirtyUnicorns-MotoE2015/android_device_motorola_msm8916-common" remote="github" revision="m-caf"/>
      <project path="device/motorola/surnia" name="DirtyUnicorns-MotoE2015/android_device_motorola_surnia" remote="github" revision="mm"/>
      
