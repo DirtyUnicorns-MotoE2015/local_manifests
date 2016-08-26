@@ -17,7 +17,7 @@
      <project path="hardware/qcom/fm" name="DirtyUnicorns/android_hardware_qcom_fm" remote="github" revision="m-caf" />
 
      <!-- Surnia -->
-     <project path="kernel/motorola/msm8916" name="DirtyUnicorns/android_kernel_motorola_msm8916" remote="github" revision="m-caf"/>
+     <project path="kernel/motorola/msm8916" name="CyanogenMod/android_kernel_motorola_msm8916" remote="github" revision="cm-13.0"/>
      <project path="device/motorola/msm8916-common" name="DirtyUnicorns-MotoE2015/android_device_motorola_msm8916-common" remote="github" revision="m-caf"/>
      <project path="device/motorola/surnia" name="DirtyUnicorns-MotoE2015/android_device_motorola_surnia" remote="github" revision="m-caf"/>
      
