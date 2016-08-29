@@ -21,7 +21,7 @@ Initialize local repository:
 
 Also add the local manifests:
 
-    git clone https://github.com/DirtyUnicorns-MotoE2015/local_manifests .repo/local_manifests
+    git clone https://github.com/DirtyUnicorns-MotoE2015/local_manifests -b m-caf .repo/local_manifests
 
 Sync up:
 
